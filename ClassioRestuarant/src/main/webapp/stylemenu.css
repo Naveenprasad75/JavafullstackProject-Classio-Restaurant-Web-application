@@ -1,0 +1,92 @@
+@charset "ISO-8859-1";
+*{
+	background-image : url("https://wallpapercave.com/wp/wp1939182.jpg");
+	color:#ffff;
+	 background-repeat: repeat-x;
+}
+nav{
+	font-size: 100px;
+	float:center;
+	color:#ffff;
+	text-align : center;
+	
+	
+}
+nav p{
+	font-size: 20px;
+	float:center;
+	color:#ffff;
+	text-align : center;
+	
+}
+
+div{
+	background: transparent;
+	}
+nav-links{
+ box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.04);
+flex: 1;
+	text-align: right;
+	align-items:right;
+	color:#000;
+background: transparent;
+display: inline-block;
+	margin: 0 20px;
+	
+	
+	}
+	nav-links a{
+	color: #fff;
+	
+	}
+	a{
+	background: transparent;
+	}
+	div h1{
+	flex:1px;
+	flex-basis:2px;
+	text-align:center;
+	}
+	section > div.menu {
+            width: 420px;
+            float: leftt;
+            background:transparent;
+            display:flex;
+           
+        }
+       
+	
+	.menu-items{
+	background: transparent;
+	}
+	 h1,h4{
+	background: transparent;
+	}
+	p{
+	background: transparent;
+	}
+	/*chatbot  */
+	 iframe {
+            border: 0;
+            -webkit-box-shadow: 0px 0px 28px -2px rgba(214,214,214,1);
+            -moz-box-shadow: 0px 0px 28px -2px rgba(214,214,214,1);
+            box-shadow: 0px 0px 28px -2px rgba(214,214,214,1); 
+            align:right;
+            background:transparent;
+        }
+        
+        
+         section {
+            width: 100%;
+            max-width: 1000px;
+            height: auto;
+            margin: 25px auto;
+            background:transparent;
+            
+        }
+
+        section > div.left {
+            width: 420px;
+            float: right;
+           
+        }

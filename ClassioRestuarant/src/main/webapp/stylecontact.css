@@ -1,0 +1,85 @@
+@charset "ISO-8859-1";
+*{
+	background-image : url("https://wallpaperaccess.com/full/5690368.jpg");
+	color:#ffff;
+}
+nav{
+	background: transparent;
+	font-size: 100px;
+	float:center;
+	color:#fff;
+	text-align : center;
+	
+	
+}
+ nav p{
+	font-size: 20px;
+	float:center;
+	color:#fff;
+	text-align : center;
+	background: transparent;
+}
+
+
+div{
+	background: transparent;
+	}
+nav-links{
+ box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.04);
+flex: 1;
+	text-align: right;
+	align-items:right;
+	color:#000;
+background: transparent;
+display: inline-block;
+	margin: 0 20px;
+	
+	
+	}
+	nav-links a{
+	color: #fff;
+	
+	}
+	a{
+	background: transparent;
+	}
+	div h4{
+	flex:1px;
+	flex-basis:2px;
+	text-align:left;
+	font-size:40px;
+	color:#fff;
+	}
+	div h6{
+	flex:1px;
+	flex-basis:2px;
+	text-align:left;
+	font-size:25px;
+	color:#fff;
+	}
+	
+	
+	 h1,h4,i,h6{
+	background: transparent;
+	}
+	p{
+	
+	background: transparent;
+	}
+	#button{
+	float : center;
+	}
+	 input {
+	 background:#fff;
+	 color:#000;
+	 }
+	 button{
+	 width:50px;
+	 height:10px;
+	 }
+	 #para{
+	 color:#fff;
+	 text-align:center;
+	 font-size:40px;
+	 
+	 }

@@ -1,0 +1,113 @@
+@charset "ISO-8859-1";
+*{
+	background-color: linear-gradient(to right, #fff,#e57373);
+	background-image : url("https://img.pngio.com/barbecue-food-png-transparent-barbecue-foodpng-images-pluspng-restaurant-food-png-1651_624.png");
+	background-repeat:no-repeat;
+	background-position:right bottom;
+	margin: left 10px;
+}
+nav{
+	font-size: 100px;
+	float:center;
+	color:#000;
+	text-align : center;
+	background: transparent;
+	
+	
+}
+p{
+	font-size: 20px;
+	float:left;
+	color:#c62828;
+	text-align : center;
+	
+	background: transparent;
+	
+}
+div{
+	background: transparent;
+}
+
+i{
+	color:#c62828;
+}
+nav-links{
+ box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.04);
+flex: 1;
+	text-align: right;
+	align-items:right;
+	
+background: transparent;
+display: inline-block;
+	margin: 0 20px;
+	
+	
+	}
+	nav-links a{
+	color: #ff5f52;
+	}
+	
+	/*chatbot  */
+	 iframe {
+            border: 0;
+            -webkit-box-shadow: 0px 0px 28px -2px rgba(214,214,214,1);
+            -moz-box-shadow: 0px 0px 28px -2px rgba(214,214,214,1);
+            box-shadow: 0px 0px 28px -2px rgba(214,214,214,1);
+            align:right;
+            background:transparent;
+        }
+        img{
+        background:transparent;
+        height:550px;
+        width:400px;
+        align:left center;
+        
+  margin-left: 200px;
+  background-attachment: fixed;
+        }
+        p{
+        color:#000;
+        
+        }
+         section {
+            width: 100%;
+            max-width: 1000px;
+            height: auto;
+            margin: 25px auto;
+            background:transparent;
+            display:flex;
+            
+        }
+
+        section > div.left {
+            width: 420px;
+            float: right;
+           
+        }
+        
+        
+        section > div.right {
+            width: 420px;
+            float: left;
+            background:transparent;
+            display:flex;
+           
+        }
+       
+        
+        form{
+         width: 420px;
+            float: rightt;
+             text-align: right;
+       
+	background: transparent;
+	color:#000;
+        }
+        div,form{
+        background: transparent;
+        }
+
+        	input ,#submit{
+        	background-color: #ff5f52;
+        	color: #000;
+        	}
