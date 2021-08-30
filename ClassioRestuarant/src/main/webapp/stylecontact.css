@@ -1,7 +1,8 @@
 @charset "ISO-8859-1";
 *{
 	background-image : url("https://wallpaperaccess.com/full/5690368.jpg");
-	color:#ffff;
+	color:#ba000d;
+	background-color:#cfd8dc
 }
 nav{
 	background: transparent;
@@ -10,6 +11,9 @@ nav{
 	color:#fff;
 	text-align : center;
 	
+	
+}
+input{
 	
 }
  nav p{
@@ -21,6 +25,36 @@ nav{
 }
 
 
+section {
+            width: 100%;
+            max-width: 1000px;
+            height: auto;
+            margin: 25px auto;
+            background:transparent;
+            display:flex;
+            
+            
+        }
+section p{
+	
+	
+}
+        section > div.left {
+            width: 420px;
+            float: right;
+           color:#000;
+        }
+        
+        
+        section > div.right {
+            width: 420px;
+            height:1000px;
+            float: leftt;
+            background:transparent;
+            display:flex;
+           
+        }
+       
 div{
 	background: transparent;
 	}
@@ -57,14 +91,29 @@ display: inline-block;
 	font-size:25px;
 	color:#fff;
 	}
-	
+	h1{
+	color:#bbdefb;
+	}
 	
 	 h1,h4,i,h6{
 	background: transparent;
 	}
-	p{
+	p {
 	
 	background: transparent;
+	
+	}
+	ul{
+	background:transparent;
+	}
+	li{
+	background:transparent;
+	color:#fff;
+	opacity:0.6px;
+	}
+	#id{
+   color:#fff;
+   transparent:50px;
 	}
 	#button{
 	float : center;
@@ -74,8 +123,8 @@ display: inline-block;
 	 color:#000;
 	 }
 	 button{
-	 width:50px;
-	 height:10px;
+	 width:70px;
+	 height:30px;
 	 }
 	 #para{
 	 color:#fff;

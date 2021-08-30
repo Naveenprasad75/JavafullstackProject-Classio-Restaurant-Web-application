@@ -22,20 +22,41 @@
 </div>
  <p id="para">
     </p>
-<div><br><br>
+
+    <section>
+ <div class="left"><br><br>
 <p><h4><u>Contact us</u></h4></p>
-<p><h6><i>NAME :</i></h6>  </p>
+<p><i><strong>NAME :</strong></i> </p>
 <input type="text" name="name" id="name" >
-<p><h6><i>Email :</i></h6>  </p>
+<p><strong><i>Email :</i></strong>  </p>
 <input type="email" name="email">
-<p><h6><i>Rate us for 5 :</i></h6>  
+<p><strong><i>Rate us for 5 :</i></strong>  
 </p>
 <input type="number" name="rating">
-</div>
-<br>
 <div id="button">
 
     <button type="button" onclick="fun()">submit</button></div>
+    
+</div>
+<br>
+
+    
+          <div class="right">
+      <!--  <img src="https://c.tenor.com/kKQT47hR-J4AAAAi/o2-o2bubl.gif">  -->
+     
+     
+        <p id="tips"> Tips<br><br><br><h1><ul><li>Base your meals on higher fibre starchy carbohydrates. ...</li><br>
+<li>Eat lots of fruit and veg. ...</li><br>
+<li>Eat more fish, including a portion of oily fish. ...</li><br>
+<li>Cut down on saturated fat and sugar. ...</li><br>
+<li>Eat less salt: no more than 6g a day for adults.</li></h1></p>
+            </div>
+            
+             
+             
+             
+            </section>
+            
     
     
    
